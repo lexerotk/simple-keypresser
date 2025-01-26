@@ -8,4 +8,4 @@ Made by [@lexerotk](https://lexerotk.github.io)
 
 # Install
 
-Download it from [here](https://github.com/lexerotk/simple-keypresser/releases/tag/unstable)
+Download it from [here](https://github.com/lexerotk/simple-keypresser/releases/tag/unstable) or download the main file and run it with Python.
