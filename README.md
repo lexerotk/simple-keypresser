@@ -18,4 +18,4 @@ This is my very first python project. It will definitely have issues.
 
 # Install
 
-Download it from [here](https://github.com/lexerotk/simple-keypresser/releases/tag/unstable) or download the main file and run it with Python.
+Download the .exe file from [here](https://github.com/lexerotk/simple-keypresser/releases/tag/unstable) or download the main file and run it with Python.
