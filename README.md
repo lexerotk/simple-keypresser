@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> THE APP IS STILL IN DEVELOPMENT AND UNSTABLE. MIGHT CAUSE ISSUES.
+> DONT USE THE APP FOR NOW. ITS VERY UNSTABLE AND CAUSING ISSUES.
 
 # Simple KeyPresser
 Simple KeyPresser is an app helps you to automate pressing a specific key with a specific delay. Purpose of this app is mainly for using it on games. Coded with Python 3.
